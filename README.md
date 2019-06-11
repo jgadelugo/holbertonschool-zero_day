@@ -1,3 +1,3 @@
 Day 0 Projects
 
-VM - Ubuntu ,Vagrant , EMACS, VI, GIT
+VM - Ubuntu ,Vagrant , EMACS, VI, GIT.
